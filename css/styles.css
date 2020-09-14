@@ -1,0 +1,72 @@
+body {
+  font-family: "Montserrat-Black";
+  background-color: #191970;
+}
+
+#title {
+  color: #fff;
+}
+
+h1 {
+  font: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* navigation bar */
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 1.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.hotel {
+  width: 80%;
+  margin: 30px;
+  border: black;
+  border-style: solid;
+}
+
+.bed {
+  width: 80%;
+  margin: 30px;
+  border: black;
+  border-style: solid;
+}
+
+.bar {
+  width: 80%;
+  margin: 40px;
+  border: black;
+  border-style: solid;
+}
+
+.service {
+  width: 80%;
+  margin: 30px;
+  border: black;
+  border-style: solid;
+}
+
+#features {
+  text-align: center;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
